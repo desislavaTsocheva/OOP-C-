@@ -1,8 +1,0 @@
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\bin\Debug\Comperators.exe.config
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\bin\Debug\Comperators.exe
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\bin\Debug\Comperators.pdb
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\obj\Debug\Comperators.csproj.AssemblyReference.cache
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\obj\Debug\Comperators.csproj.SuggestedBindingRedirects.cache
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\obj\Debug\Comperators.csproj.CoreCompileInputs.cache
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\obj\Debug\Comperators.exe
-C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Comperators\obj\Debug\Comperators.pdb
