@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\bin\Debug\Animal Kingdom.exe.config
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\bin\Debug\Animal Kingdom.exe
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\bin\Debug\Animal Kingdom.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\obj\Debug\Animal Kingdom.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\obj\Debug\Animal Kingdom.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\obj\Debug\Animal Kingdom.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\obj\Debug\Animal Kingdom.exe
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\OOP-11d\Animal Kingdom\obj\Debug\Animal Kingdom.pdb
