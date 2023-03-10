@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\bin\Debug\BibliothekComparatorsAndIterators.exe.config
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\bin\Debug\BibliothekComparatorsAndIterators.exe
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\bin\Debug\BibliothekComparatorsAndIterators.pdb
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\obj\Debug\BibliothekComparatorsAndIterators.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\obj\Debug\BibliothekComparatorsAndIterators.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\obj\Debug\BibliothekComparatorsAndIterators.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\obj\Debug\BibliothekComparatorsAndIterators.exe
+C:\Users\viole\OneDrive\Работен плот\HTML\BibliothekComparatorsAndIterators\BibliothekComparatorsAndIterators\obj\Debug\BibliothekComparatorsAndIterators.pdb
