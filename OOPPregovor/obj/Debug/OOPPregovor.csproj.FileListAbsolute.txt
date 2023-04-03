@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\bin\Debug\OOPPregovor.exe.config
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\bin\Debug\OOPPregovor.exe
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\bin\Debug\OOPPregovor.pdb
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\obj\Debug\OOPPregovor.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\obj\Debug\OOPPregovor.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\obj\Debug\OOPPregovor.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\obj\Debug\OOPPregovor.exe
+C:\Users\viole\OneDrive\Работен плот\OOP-zadachi\OOPPregovor\OOPPregovor\obj\Debug\OOPPregovor.pdb
